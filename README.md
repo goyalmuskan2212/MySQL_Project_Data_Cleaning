@@ -122,14 +122,6 @@ MYSQL-Layoffs-Project/
 
 ---
 
-## Author
-
-**Muskan Goyal**
-
-Passionate about Data Analytics, SQL, and solving real-world business problems using data.
-
----
-
 ## Future Improvements
 
 * Create Power BI dashboard for visualization
